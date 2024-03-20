@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RocketPunch\\PokerShuffle\\PockerShuffle\\PockerShuffle.csproj",
-      "projectName": "PockerShuffle",
-      "projectPath": "D:\\RocketPunch\\PokerShuffle\\PockerShuffle\\PockerShuffle.csproj",
+      "projectUniqueName": "D:\\RocketPunch\\PokerShuffle\\PockerShuffle\\PokerShuffle.csproj",
+      "projectName": "PokerShuffle",
+      "projectPath": "D:\\RocketPunch\\PokerShuffle\\PockerShuffle\\PokerShuffle.csproj",
       "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
       "outputPath": "D:\\RocketPunch\\PokerShuffle\\PockerShuffle\\obj\\",
       "projectStyle": "PackageReference",
