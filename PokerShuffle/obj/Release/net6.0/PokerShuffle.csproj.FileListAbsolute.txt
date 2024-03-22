@@ -1,0 +1,15 @@
+D:\RocketPunch\PokerShuffle\PokerShuffle\bin\Release\net6.0\PokerShuffle.exe
+D:\RocketPunch\PokerShuffle\PokerShuffle\bin\Release\net6.0\PokerShuffle.deps.json
+D:\RocketPunch\PokerShuffle\PokerShuffle\bin\Release\net6.0\PokerShuffle.runtimeconfig.json
+D:\RocketPunch\PokerShuffle\PokerShuffle\bin\Release\net6.0\PokerShuffle.dll
+D:\RocketPunch\PokerShuffle\PokerShuffle\bin\Release\net6.0\PokerShuffle.pdb
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\PokerShuffle.csproj.AssemblyReference.cache
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\PokerShuffle.GeneratedMSBuildEditorConfig.editorconfig
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\PokerShuffle.AssemblyInfoInputs.cache
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\PokerShuffle.AssemblyInfo.cs
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\PokerShuffle.csproj.CoreCompileInputs.cache
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\PokerShuffle.dll
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\refint\PokerShuffle.dll
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\PokerShuffle.pdb
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\PokerShuffle.genruntimeconfig.cache
+D:\RocketPunch\PokerShuffle\PokerShuffle\obj\Release\net6.0\ref\PokerShuffle.dll
