@@ -1,10 +1,8 @@
-﻿using System;
+﻿namespace PokerFramework;
+using CardFramework;
 
-public class RankCard:Card
+public class RankCard : PokerCard
 {
-	public Suit CardSuit { get; init; }
-    public Rank CardRank { get; init; }
-
     public RankCard(Suit suit, Rank rank)
     {
         CardSuit = suit;
@@ -13,7 +11,7 @@ public class RankCard:Card
 
     public override string ToString()
     {
-        string suitStr = CardSuit switch
+        var suitStr = CardSuit switch
         {
             Suit.Spade => "S",
             Suit.Heart => "H",
@@ -22,7 +20,7 @@ public class RankCard:Card
             _ => throw new InvalidOperationException("Invalid suit")
         };
 
-        string rankStr = CardRank switch
+        var rankStr = CardRank switch
         {
             Rank.Two => "2",
             Rank.Three => "3",

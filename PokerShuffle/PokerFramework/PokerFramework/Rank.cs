@@ -1,12 +1,4 @@
-﻿using System;
-
-public enum Suit
-{
-    Spade,
-    Heart,
-    Diamond,
-    Club
-}
+﻿namespace PokerFramework;
 
 public enum Rank
 {
