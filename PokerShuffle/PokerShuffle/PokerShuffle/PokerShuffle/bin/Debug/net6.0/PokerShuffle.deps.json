@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PokerShuffle/1.0.0": {
+        "dependencies": {
+          "CardFramework": "1.0.0",
+          "PokerFramework": "1.0.0"
+        },
+        "runtime": {
+          "PokerShuffle.dll": {}
+        }
+      },
+      "CardFramework/1.0.0": {
+        "runtime": {
+          "CardFramework.dll": {}
+        }
+      },
+      "PokerFramework/1.0.0": {
+        "dependencies": {
+          "CardFramework": "1.0.0"
+        },
+        "runtime": {
+          "PokerFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokerShuffle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CardFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PokerFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
