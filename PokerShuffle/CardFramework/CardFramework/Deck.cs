@@ -3,6 +3,7 @@
 public class Deck<T> where T : Card
 {
     private List<T> _cards = new List<T>();
+    
     private Random _random = new Random();
     
     protected void AddCard(T card)

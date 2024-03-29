@@ -3,13 +3,21 @@ using CardFramework;
 
 public class Game
 {
+    private int _playerCount = 3; // 用于指定玩家数
+    
     private PokerDeck _deck;
+    
     private List<Player> _players;
 
     public Game()
     {
         _deck = new PokerDeck();
-        _players = new List<Player> { new Player(), new Player(), new Player() };
+        _players = new List<Player>();
+        
+        for (var i = 0; i < _playerCount; i++)
+        {
+            _players.Add(new Player());
+        }
     }
 
     public void Play()
@@ -34,7 +42,7 @@ public class Game
 
         foreach (var player in _players)
         {
-            player.SortHand();
+            player.HandSort();
             Console.WriteLine(player);
         }
     }

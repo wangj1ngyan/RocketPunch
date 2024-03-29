@@ -1,15 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using CardFramework;
 using PokerFramework;
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
+namespace PokerShuffle;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Game game = new Game();
         game.Play();

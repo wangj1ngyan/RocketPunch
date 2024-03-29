@@ -3,6 +3,10 @@ using CardFramework;
 
 public class RankCard : PokerCard
 {
+    public Suit CardSuit { get; init;  }
+    
+    public Rank CardRank { get; init;  }
+    
     public RankCard(Suit suit, Rank rank)
     {
         CardSuit = suit;
