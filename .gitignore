@@ -1,5 +1,5 @@
 # ignore these files
-*.idea
-bin
-obj
+.idea
+bin/
+obj/
 *.csproj
