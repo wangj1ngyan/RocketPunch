@@ -22,12 +22,12 @@ public class Hand<T> where T : Card
         _hand.Remove(card);
     }
 
-    public IEnumerable<T> GetCards()
+    // 设置基于 Cumparison<T>的排序策略
+    public void Sort(Comparison<T> comparison)
     {
-        return _hand.AsEnumerable();
+        _hand.Sort(comparison);
     }
-
-    // 设置排序策略的方法
+    // 设置基于 Func 的排序策略
     public void SetSortStrategy(Func<List<T>, IEnumerable<T>> sortStrategy)
     {
         _sortStrategy = sortStrategy;
@@ -46,7 +46,5 @@ public class Hand<T> where T : Card
     {
         return string.Join(" ", _hand.Select(card => card.ToString()));
     }
-    
-    
     
 }

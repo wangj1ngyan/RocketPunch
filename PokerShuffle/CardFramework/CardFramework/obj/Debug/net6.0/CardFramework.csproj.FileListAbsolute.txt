@@ -13,7 +13,6 @@ D:\RocketPunch\CardFramework\CardFramework\obj\Debug\net6.0\ref\CardFramework.dl
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\bin\Debug\net6.0\CardFramework.deps.json
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\bin\Debug\net6.0\CardFramework.dll
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\bin\Debug\net6.0\CardFramework.pdb
-D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\CardFramework.csproj.AssemblyReference.cache
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\CardFramework.GeneratedMSBuildEditorConfig.editorconfig
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\CardFramework.AssemblyInfoInputs.cache
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\CardFramework.AssemblyInfo.cs
@@ -22,3 +21,4 @@ D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\CardFra
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\refint\CardFramework.dll
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\CardFramework.pdb
 D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\ref\CardFramework.dll
+D:\RocketPunch\PokerShuffle\CardFramework\CardFramework\obj\Debug\net6.0\CardFramework.sourcelink.json
