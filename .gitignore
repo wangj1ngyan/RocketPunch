@@ -1,0 +1,5 @@
+# ignore these files
+*.idea
+bin
+obj
+*.csproj
