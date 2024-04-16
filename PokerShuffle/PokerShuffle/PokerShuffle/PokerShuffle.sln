@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerShuffle", "PokerShuffle\PokerShuffle.csproj", "{BB706F07-248E-4B56-979A-1E6F7142C1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerFramework", "..\..\PokerFramework\PokerFramework\PokerFramework.csproj", "{6FEC2D6F-1FEA-4A8E-96D2-0E99E160AD17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFramework", "..\..\CardFramework\CardFramework\CardFramework.csproj", "{748D58FE-951D-4F43-80F2-A0DC14DA49E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB706F07-248E-4B56-979A-1E6F7142C1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB706F07-248E-4B56-979A-1E6F7142C1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB706F07-248E-4B56-979A-1E6F7142C1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB706F07-248E-4B56-979A-1E6F7142C1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEC2D6F-1FEA-4A8E-96D2-0E99E160AD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEC2D6F-1FEA-4A8E-96D2-0E99E160AD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEC2D6F-1FEA-4A8E-96D2-0E99E160AD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEC2D6F-1FEA-4A8E-96D2-0E99E160AD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748D58FE-951D-4F43-80F2-A0DC14DA49E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748D58FE-951D-4F43-80F2-A0DC14DA49E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748D58FE-951D-4F43-80F2-A0DC14DA49E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748D58FE-951D-4F43-80F2-A0DC14DA49E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
