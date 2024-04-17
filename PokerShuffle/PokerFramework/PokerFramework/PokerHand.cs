@@ -38,9 +38,9 @@ public class PokerHand : Hand<Card>
             if (rx != null && ry != null)
             {
                 // 先比较花色，再比较点数
-                int suitComparison = rx.CardSuit.CompareTo(ry.CardSuit);
+                int suitComparison = rx.Suit.CompareTo(ry.Suit);
                 if (suitComparison != 0) return suitComparison;
-                return ry.CardRank.CompareTo(rx.CardRank);
+                return ry.Rank.CompareTo(rx.Rank);
             }
             return 0;
         };

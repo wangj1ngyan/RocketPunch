@@ -3,19 +3,19 @@ using CardFramework;
 
 public class RankCard : PokerCard
 {
-    public Suit CardSuit { get; init;  }
+    public Suit Suit { get; init;  }
     
-    public Rank CardRank { get; init;  }
+    public Rank Rank { get; init;  }
     
     public RankCard(Suit suit, Rank rank)
     {
-        CardSuit = suit;
-        CardRank = rank;
+        Suit = suit;
+        Rank = rank;
     }
 
     public override string ToString()
     {
-        var suitStr = CardSuit switch
+        var suitStr = Suit switch
         {
             Suit.Spade => "S",
             Suit.Heart => "H",
@@ -24,7 +24,7 @@ public class RankCard : PokerCard
             _ => throw new InvalidOperationException("Invalid suit")
         };
 
-        var rankStr = CardRank switch
+        var rankStr = Rank switch
         {
             Rank.Two => "2",
             Rank.Three => "3",
