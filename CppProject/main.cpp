@@ -1,4 +1,7 @@
-#include "PokerShuffle.h"
+#include <iostream>
+#include <vector>
+#include "Deck.h"
+#include "Player.h"
 
 int main() {
     Deck deck;

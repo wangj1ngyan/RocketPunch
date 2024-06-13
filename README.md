@@ -1,9 +1,9 @@
 # README
 ## Compile and Run CppProject
 ```
-g++ -std=c++14 -o PokerGame main.cpp PokerShuffle.cpp
+g++ -o PokerShuffle main.cpp Deck.cpp Player.cpp PokerCard.cpp JokerCard.cpp
+./PokerShuffle
 
-./PokerGame
 ```
 
 ## Run Lua Project
